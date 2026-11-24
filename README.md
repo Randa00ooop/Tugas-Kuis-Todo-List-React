@@ -17,6 +17,5 @@ Aplikasi To-Do List frontend yang dibuat menggunakan React.js (Vite). Aplikasi i
 4. Buka `http://localhost:5173` di browser.
 
 ## Screenshot
-*(Silakan jalankan aplikasinya, ambil screenshot (screenshot) halaman utama dan saat modal terbuka, lalu drag & drop gambarnya ke sini atau simpan di folder `public` dan panggil di sini)*
-
-![Halaman Utama](./screenshot-utama.png)
+<img width="959" height="503" alt="Screenshot 2026-11-25 002209" src="https://github.com/user-attachments/assets/a4f8a5ca-2706-4eea-b647-6f7e1de65946" />
+<img width="959" height="499" alt="Screenshot 2026-11-25 002228" src="https://github.com/user-attachments/assets/77874e05-b386-42dd-83c9-d54c882a0f2c" />
